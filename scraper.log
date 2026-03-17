@@ -1,0 +1,65 @@
+2026-03-17 09:00:27,181 [INFO] ====== WebDriver manager ======
+2026-03-17 09:00:27,503 [INFO] Get LATEST geckodriver version for 148.0 firefox
+2026-03-17 09:00:28,077 [INFO] Get LATEST geckodriver version for 148.0 firefox
+2026-03-17 09:00:28,215 [INFO] Get LATEST geckodriver version for 148.0 firefox
+2026-03-17 09:00:28,367 [INFO] Getting latest mozilla release info for v0.36.0
+2026-03-17 09:00:28,890 [INFO] About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz
+2026-03-17 09:00:29,444 [INFO] Driver downloading response is 200
+2026-03-17 09:00:29,724 [INFO] Get LATEST geckodriver version for 148.0 firefox
+2026-03-17 09:00:29,943 [INFO] Driver has been saved in cache [/home/kacper/.wdm/drivers/geckodriver/linux64/v0.36.0]
+2026-03-17 09:00:32,629 [INFO] Wczytywanie ciasteczek...
+2026-03-17 09:00:37,114 [INFO] Ciasteczka załadowane. Odświeżam stronę...
+2026-03-17 09:00:43,319 [INFO] ### ROZPOCZĘCIE SKANOWANIA GASTRO ###
+2026-03-17 09:00:43,320 [INFO] Otwieram: https://www.facebook.com/p/Pizzeria-Del-Piero-100063622118097/
+2026-03-17 09:00:55,578 [INFO]    [OK] Pobrano pierwszy post dla Pizzeria-Del-Piero-100063622118097 (zdjęć: 1)
+2026-03-17 09:00:55,580 [INFO] Otwieram: https://www.facebook.com/p/KEBAP-Stambu%C5%82-new-100057644341776/
+2026-03-17 09:01:06,859 [INFO]    [OK] Pobrano pierwszy post dla KEBAP-Stambu%C5%82-new-100057644341776 (zdjęć: 4)
+2026-03-17 09:01:06,860 [INFO] Otwieram: https://www.facebook.com/podzamczegorlice/
+2026-03-17 09:01:18,486 [INFO]    [OK] Pobrano pierwszy post dla podzamczegorlice (zdjęć: 1)
+2026-03-17 09:01:18,487 [INFO] Otwieram: https://www.facebook.com/803975942806402/
+2026-03-17 09:01:31,257 [INFO]    [OK] Pobrano pierwszy post dla 803975942806402 (zdjęć: 1)
+2026-03-17 09:01:31,257 [INFO] Otwieram: https://www.facebook.com/PubPizzeriaChili/
+2026-03-17 09:01:43,346 [INFO]    [OK] Pobrano pierwszy post dla PubPizzeriaChili (zdjęć: 3)
+2026-03-17 09:01:43,346 [INFO] Otwieram: https://www.facebook.com/bilard.kregle/
+2026-03-17 09:01:54,675 [INFO]    [OK] Pobrano pierwszy post dla bilard.kregle (zdjęć: 1)
+2026-03-17 09:01:54,677 [INFO] Otwieram: https://www.facebook.com/barnewyorkgorlice/
+2026-03-17 09:02:06,397 [INFO]    [OK] Pobrano pierwszy post dla barnewyorkgorlice (zdjęć: 4)
+2026-03-17 09:02:06,399 [INFO] Otwieram: https://www.facebook.com/p/Bar-mleczny-Wojtek-Gorlice-100063715833727/
+2026-03-17 09:02:17,941 [INFO]    [OK] Pobrano pierwszy post dla Bar-mleczny-Wojtek-Gorlice-100063715833727 (zdjęć: 1)
+2026-03-17 09:02:17,942 [INFO] Otwieram: https://www.facebook.com/p/Lucy-Bar-100057188120549/
+2026-03-17 09:02:29,329 [INFO]    [OK] Pobrano pierwszy post dla Lucy-Bar-100057188120549 (zdjęć: 0)
+2026-03-17 09:02:29,329 [INFO] Otwieram: https://www.facebook.com/p/Dark-Pub-Hotelik-Official-100063812942422/
+2026-03-17 09:02:40,627 [INFO]    [OK] Pobrano pierwszy post dla Dark-Pub-Hotelik-Official-100063812942422 (zdjęć: 2)
+2026-03-17 09:02:40,628 [INFO] Otwieram: https://www.facebook.com/dworcowagorlice/
+2026-03-17 09:02:51,940 [INFO]    [OK] Pobrano pierwszy post dla dworcowagorlice (zdjęć: 0)
+2026-03-17 09:02:52,479 [INFO] ### ZAKOŃCZONO SESJĘ ###
+2026-03-17 09:25:54,763 [INFO] ====== WebDriver manager ======
+2026-03-17 09:25:55,018 [INFO] Get LATEST geckodriver version for 148.0 firefox
+2026-03-17 09:25:55,532 [INFO] Get LATEST geckodriver version for 148.0 firefox
+2026-03-17 09:25:55,751 [INFO] Driver [/home/kacper/.wdm/drivers/geckodriver/linux64/v0.36.0/geckodriver] found in cache
+2026-03-17 09:25:59,025 [INFO] Wczytywanie ciasteczek...
+2026-03-17 09:26:03,480 [INFO] Ciasteczka załadowane. Odświeżam stronę...
+2026-03-17 09:26:11,628 [INFO] ### ROZPOCZĘCIE SKANOWANIA GASTRO ###
+2026-03-17 09:26:11,628 [INFO] Otwieram: https://www.facebook.com/p/Pizzeria-Del-Piero-100063622118097/
+2026-03-17 09:26:23,643 [INFO]    [OK] Pobrano pierwszy post dla Pizzeria-Del-Piero-100063622118097 (zdjęć: 1)
+2026-03-17 09:26:23,644 [INFO] Otwieram: https://www.facebook.com/p/KEBAP-Stambu%C5%82-new-100057644341776/
+2026-03-17 09:26:35,531 [INFO]    [OK] Pobrano pierwszy post dla KEBAP-Stambu%C5%82-new-100057644341776 (zdjęć: 0)
+2026-03-17 09:26:35,532 [INFO] Otwieram: https://www.facebook.com/podzamczegorlice/
+2026-03-17 09:26:47,116 [INFO]    [OK] Pobrano pierwszy post dla podzamczegorlice (zdjęć: 1)
+2026-03-17 09:26:47,116 [INFO] Otwieram: https://www.facebook.com/803975942806402/
+2026-03-17 09:26:59,148 [INFO]    [OK] Pobrano pierwszy post dla 803975942806402 (zdjęć: 1)
+2026-03-17 09:26:59,149 [INFO] Otwieram: https://www.facebook.com/PubPizzeriaChili/
+2026-03-17 09:27:10,957 [INFO]    [OK] Pobrano pierwszy post dla PubPizzeriaChili (zdjęć: 3)
+2026-03-17 09:27:10,958 [INFO] Otwieram: https://www.facebook.com/bilard.kregle/
+2026-03-17 09:27:22,179 [INFO]    [OK] Pobrano pierwszy post dla bilard.kregle (zdjęć: 1)
+2026-03-17 09:27:22,179 [INFO] Otwieram: https://www.facebook.com/barnewyorkgorlice/
+2026-03-17 09:27:33,717 [INFO]    [OK] Pobrano pierwszy post dla barnewyorkgorlice (zdjęć: 4)
+2026-03-17 09:27:33,718 [INFO] Otwieram: https://www.facebook.com/p/Bar-mleczny-Wojtek-Gorlice-100063715833727/
+2026-03-17 09:27:44,225 [INFO]    [OK] Pobrano pierwszy post dla Bar-mleczny-Wojtek-Gorlice-100063715833727 (zdjęć: 1)
+2026-03-17 09:27:44,226 [INFO] Otwieram: https://www.facebook.com/p/Lucy-Bar-100057188120549/
+2026-03-17 09:27:55,029 [INFO]    [OK] Pobrano pierwszy post dla Lucy-Bar-100057188120549 (zdjęć: 0)
+2026-03-17 09:27:55,029 [INFO] Otwieram: https://www.facebook.com/p/Dark-Pub-Hotelik-Official-100063812942422/
+2026-03-17 09:28:06,467 [INFO]    [OK] Pobrano pierwszy post dla Dark-Pub-Hotelik-Official-100063812942422 (zdjęć: 2)
+2026-03-17 09:28:06,468 [INFO] Otwieram: https://www.facebook.com/dworcowagorlice/
+2026-03-17 09:28:17,595 [INFO]    [OK] Pobrano pierwszy post dla dworcowagorlice (zdjęć: 0)
+2026-03-17 09:28:18,071 [INFO] ### ZAKOŃCZONO SESJĘ. Plik zapisany w: /home/kacper/Dokumenty/gastro_gorlice_final/react/gastro-gorlice/public/gastro_data.json ###
