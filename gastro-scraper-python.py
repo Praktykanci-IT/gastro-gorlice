@@ -28,7 +28,6 @@ os.makedirs(MEDIA_DIR, exist_ok=True)
 RESTAURANTS = [
     {"name": "Pizzeria Del Piero", "url": "https://www.facebook.com/p/Pizzeria-Del-Piero-100063622118097/"},
     {"name": "Kebap Stambuł", "url": "https://www.facebook.com/p/KEBAP-Stambu%C5%82-new-100057644341776/"},
-    {"name": "Restauracja Podzamcze", "url": "https://www.facebook.com/podzamczegorlice/"},
     {"name": "BONA Bistro-Bar", "url": "https://www.facebook.com/803975942806402/"},
     {"name": "Pub Pizzeria Chili", "url": "https://www.facebook.com/PubPizzeriaChili/"},
     {"name": "Bilard Kręgle", "url": "https://www.facebook.com/bilard.kregle/"},
@@ -39,12 +38,22 @@ RESTAURANTS = [
     {"name": "Dworcowa Gorlice", "url": "https://www.facebook.com/dworcowagorlice/"}
 ]
 
+# --- WARUNKOWE DODAWANIE RESTAURACJI (TYLKO W PONIEDZIAŁKI) ---
+# datetime.now().weekday() zwraca 0 dla poniedziałku
+if datetime.now().weekday() == 0:
+    RESTAURANTS.append(
+        {"name": "Restauracja Podzamcze", "url": "https://www.facebook.com/podzamczegorlice/"}
+    )
+
 # --- LOGOWANIE ---
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s',
     handlers=[logging.FileHandler(LOG_FILE, encoding='utf-8'), logging.StreamHandler()]
 )
+
+if datetime.now().weekday() == 0:
+    logging.info("Dzisiaj poniedziałek - dodano Restaurację Podzamcze do listy skanowania.")
 
 def download_media(url, save_path, session_cookies):
     try:
